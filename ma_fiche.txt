@@ -1,0 +1,17 @@
+Nom du fichier photo : photo.png
+
+Prénom : Virgil
+
+Nom : Niati
+
+Adresse : Derrière toi
+
+Date de naissance : 31/22/2019
+
+Email : test@mail.lol
+
+Biographie : Intendant du chat botté 
+
+Projets pro futurs : IDK
+
+Hobbies : Gaming 
