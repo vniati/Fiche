@@ -1,0 +1,49 @@
+header {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+￼  text-transform: uppercase;
+￼  font-weight: 700;
+  text-align: center;
+  font-size: 18px;
+  color: #71B43D;
+}
+
+.label {
+  text-align:center;
+}
+
+
+p {
+  font-family: "Roboto Slab", "Helvetica Neue";
+￼  font-size: 14px;
+￼  line-height: 1.75;
+  margin: 10px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.grey-bg {
+  background-color: #f7f7f7;
+}
+
+h2 {
+  ￼font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+h4 {
+  ￼font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  padding-left: 560px;
+  padding-right: 560px;
+}
+
+ul {
+  padding-left: 550px;
+  padding-right: 550px;
+  margin: 0;
+  padding-bottom: 20px;
+}
