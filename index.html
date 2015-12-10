@@ -91,20 +91,23 @@
                <h1 class="titrecontact">Contact</h1>
               <form action="/back/contact" method="post">
 
+               <input type="hidden" name="to" value="niativirgil@gmail.com">
+
                 <div>
                  <label for="nom">Nom :</label>
                   <input type="text" id="nom" name="user_name" />
                 </div>
 
+
                 <div>
                   <label for="courriel">E-mail :</label>
-                  <input type="email" id="courriel" name="user_mail" />
+                  <input type="email" id="courriel" name="from" />
                 </div>
 
 
                 <div>
                   <label for="message">Message :</label>
-                  <textarea id="message" name="user_message"></textarea>
+                  <textarea id="message" name="body"></textarea>
                 </div>
 
                 <div class="button">
