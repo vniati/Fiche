@@ -1,20 +1,21 @@
-span {
+.nomban {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
 ￼  text-transform: uppercase;
   float: left;
   font-size: 18px;
   color: #578B2F;
-  padding-left: 100px;
+  padding-left: 65px;
+
 }
 
 body {
   margin: 0;
-  padding: 0px;
 }
 
 header {
   padding: 8px 8px 17px 8px;
   background-color: black;
+  padding-left: 275px;
 }
 
 .menu {
@@ -33,61 +34,129 @@ header {
   margin-left: 20px;
 }
 
+.titremoi {
+  width: 960px;
+  margin: auto;
+}
+
+.apropo {
+  width: 50% ;
+  float: left;
+  text-align: center;
+}
+
+.photo {
+  text-align: center;
+  width: 50%;
+  display: inline-block;
+  padding-top: 10px;
+}
 
 
-p {
+.para {
   font-family: "Roboto Slab", "Helvetica Neue";
 ￼  font-size: 14px;
 ￼  line-height: 1.75;
-  margin: 10px;
   padding-bottom: 20px;
-  padding-left: 100px;
+  padding-left: 30px;
+}
+
+.listbas li {
+font-family: "Roboto Slab", "Helvetica Neue";
+￼font-size: 14px;
+
+}
+.clasbio {
   width: 960px;
   margin: auto;
 }
 
-.grey-bg {
-  background-color: #f7f7f7;
-}
-
-label {
-  padding-left: 214px;
+.clasobjectif {
   width: 960px;
   margin: auto;
 }
 
-h2 {
-  ￼font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+.clasproj {
+  width: 960px;
+  margin: auto;
+  height: 130px;
+}
+
+.clasloisirs {
+  width: 960px;
+  margin: auto;
+}
+
+#proj {
+    background-color: #f7f7f7
+  }
+
+#bio {
+  background-color: #f7f7f7
+}
+
+
+.left {
+  width: 50% ;
+  float: left ;
+  text-align: center;
+}
+
+.right {
+  text-align: center;
+  width: 50%;
+ display: inline-block; ;
+}
+
+.moi {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 700;
   font-size: 19px;
-  padding-top: 20px;
-  padding-left: 100px;
-  width: 960px;
-  margin: auto;
+  padding-left: 30px;
 }
 
+.tilt {
 
-h4 {
+font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  font-size: 19px;
+padding-left: 30px;
+}
+.titree {
+
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  font-size: 19px;
+  padding-left: 30px;
+  padding-top: 10px;
+}
+
+.titreee {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  font-size: 19px;
+}
+
+.minititre {
   ￼font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 700;
   font-size: 16px;
-  padding-left: 100px;
-  width: 960px;
-  margin: auto;
 }
 
 .foot {
   text-align: center;
-  width: 960px;
-  margin: auto;
 }
 
 .listebas {
   list-style-type: none;
-  padding-left: 100px;
-  width: 960px;
-  margin: auto;
 }
+
+.listehaut {
+  list-style-type: none;
+}
+
+
+/*css du trombi*/
 
 .trombi li img {
   display: block;
@@ -105,4 +174,17 @@ h4 {
 .secti {
   width: 960px;
   margin: auto;
+}
+
+.colorred {
+  border: 2px red solid;
+}
+
+.colorgreen {
+  border: 2px green solid;
+}
+
+.zoomimage{
+  zoom: 150%;
+  -moz-transform: scale(2);
 }
